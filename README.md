@@ -134,4 +134,23 @@ https://school.programmers.co.kr/learn/courses/30/lessons/150370
 
 </details>
 
+#### 이번 게임을 만들며 작업했던 기록들
+
+<details>
+
+이번 게임을 기획하고 작업하면서 가장 중요하게 여겼던 것은,
+
+어떤 게임을 만들지 아이디어를 내는 것과 UI를 구성하는 느낌을 어떻게 할 것인지 하는 등의 요소들로
+
+아래의 사진들은 그 과정을 손으로 기록한 사진인데, 과제와는 관계가 적지만 잊혀지는 것이 아쉬워서 올리게 되었다.
+
+![KakaoTalk_20231229_121704861](https://github.com/Lawrence1031/ThridAssignment/assets/144416099/2b3662ec-a0a4-4026-b69d-a28f7bdec04e)
+
+![KakaoTalk_20231229_121704861_01](https://github.com/Lawrence1031/ThridAssignment/assets/144416099/d017a3b7-580d-4b16-ae24-be127890d689)
+
+![KakaoTalk_20231229_121704861_02](https://github.com/Lawrence1031/ThridAssignment/assets/144416099/cbfedf52-bc5a-4d3f-b52f-f8d2c442dc1a)
+
+![KakaoTalk_20231229_121704861_03](https://github.com/Lawrence1031/ThridAssignment/assets/144416099/e44f5d91-e65d-4bf5-b7ed-a09cf6006b98)
+  
+</details>
 
