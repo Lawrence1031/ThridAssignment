@@ -32,6 +32,7 @@ https://assetstore.unity.com/packages/2d/pixelwitchery-239673
 </details>
 
 ### 게임 설명
+
 <details>
 
 이번 게임은 미완성의 게임으로 최종 프로젝트에 들어가기 앞서서 기술적인 부분을 공부하기 위해 만든 게임이다.
@@ -92,6 +93,7 @@ TitleScene에서는 책장에서 책을 뽑는 느낌이 나게, CollectionScene
 
 <details>
 
+
 이 게임을 만들면서 구현했던 기능들은
 
 Button에 마우스를 호버 했을 때, 다양한 효과가 나타날 수 있게 (IPointerEnter, IPointerExit)을 사용한 것과
@@ -110,6 +112,7 @@ Coroutine을 이용하여 글씨가 순서대로 나오며 책을 읽는 듯한 
 
 <details>
 
+
 원래는 04.Chapter_01 부분에 좀 더 구현하여 기본적인 게임의 진행까지(데모버전) 만드는 것이 목표였으나,
 
 다양한 기술들을 공부하느랴고 이를 완수하지 못하고 기본적인 UI 틀과 Button들, 캐릭터와 이동 정도를 구현하였다.
@@ -121,6 +124,7 @@ Coroutine을 이용하여 글씨가 순서대로 나오며 책을 읽는 듯한 
 #### 구현하지 못했지만 공부한 것들
 
 <details>
+
 
 이번 게임을 작업하면서 구현하지는 못했지만 따로 공부했던 내용들은
 
@@ -137,6 +141,7 @@ https://school.programmers.co.kr/learn/courses/30/lessons/150370
 #### 이번 게임을 만들며 작업했던 기록들
 
 <details>
+
 
 이번 게임을 기획하고 작업하면서 가장 중요하게 여겼던 것은,
 
