@@ -827,8 +827,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: be8a8e9b5ef142c4e83130e0b4e31aee, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  hoverSize: {x: 250, y: 350}
-  hoverPositionOffset: {x: 0, y: -80}
+  hoverSize: {x: 250, y: 400}
+  hoverPositionOffset: {x: 0, y: -60}
 --- !u!114 &137881715
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -1848,8 +1848,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: be8a8e9b5ef142c4e83130e0b4e31aee, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  hoverSize: {x: 250, y: 350}
-  hoverPositionOffset: {x: 0, y: -80}
+  hoverSize: {x: 250, y: 400}
+  hoverPositionOffset: {x: 0, y: -60}
 --- !u!114 &588864160
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -2519,8 +2519,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: be8a8e9b5ef142c4e83130e0b4e31aee, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  hoverSize: {x: 250, y: 350}
-  hoverPositionOffset: {x: 0, y: -80}
+  hoverSize: {x: 250, y: 400}
+  hoverPositionOffset: {x: 0, y: -60}
 --- !u!114 &957685488
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -3845,8 +3845,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: be8a8e9b5ef142c4e83130e0b4e31aee, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  hoverSize: {x: 250, y: 350}
-  hoverPositionOffset: {x: 0, y: -80}
+  hoverSize: {x: 250, y: 400}
+  hoverPositionOffset: {x: 0, y: -60}
 --- !u!114 &1658184995
 MonoBehaviour:
   m_ObjectHideFlags: 0

@@ -11,8 +11,8 @@ public class TitleSceneButton : MonoBehaviour, IPointerEnterHandler, IPointerExi
     private Vector2 originalSize;
     private Vector2 originalPosition;
 
-    public Vector2 hoverSize = new Vector2(250, 350);
-    public Vector2 hoverPositionOffset = new Vector2(0, -80f);
+    public Vector2 hoverSize = new Vector2(250, 400);
+    public Vector2 hoverPositionOffset = new Vector2(0, -60f);
 
     private void Awake()
     {
